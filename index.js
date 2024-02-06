@@ -40,6 +40,11 @@ const questions = [
         name:'licence',
         message:'Add your license',
     },
+    {
+        type:'input',
+        name:'tests',
+        message:'How did you test this?',
+    },
 ];
 
 // function to write README file

@@ -19,6 +19,9 @@ function generateMarkdown(data) {
 
 ## License
 - ${data.licence}
+
+## Tests
+- ${data.tests}
 `;
 }
 
